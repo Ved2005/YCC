@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">IIMP</string>
+
+    <string name="id">"ID : "</string>
+    <string name="user_name">"User Name : "</string>
+    <string name="emailid">"E-Mail ID : "</string>
+    <string name="mobileno">"Mobile No. : "</string>
+    <string name="designation">"Designation : "</string>
+
+    <string name="btn_search_members">Search Members</string>
+    <string name="btn_user_name">User Profile</string>
+    <string name="btn_fetch_profile">Fetch Profile</string>
+    <string name="btn_search">Search</string>
+
+</resources>
